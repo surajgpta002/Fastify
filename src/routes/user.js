@@ -31,6 +31,7 @@ async function userRouter(fastify, opts) {
     reply.code(201);
     return {
       id: "217138nxxnwhhah",
+      name:"Suraj Gupta"
     };
   });
 }
