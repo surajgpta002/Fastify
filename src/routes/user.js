@@ -30,7 +30,7 @@ async function userRouter(fastify, opts) {
   fastify.post("/api/users", { schema: createUserSchema }, (request, reply) => {
     reply.code(201);
     return {
-      id: "217138nxxnwhhah",
+      id: "Suraj20xeh",
     };
   });
 }
